@@ -34,6 +34,7 @@
 ## POSSIBILITY OF SUCH DAMAGE.
 ################################################################################
 ## just a comment to test
+## Some more comment
 ##
 BUILD_DIR = build
 
