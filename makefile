@@ -33,7 +33,8 @@
 ## ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 ## POSSIBILITY OF SUCH DAMAGE.
 ################################################################################
-
+## just a comment to test
+##
 BUILD_DIR = build
 
 ROOT = ${PWD}
